@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "browser-bookmarks": {
+      "command": "python3",
+      "args": ["src/server.py"]
+    }
+  },
+  "imports": []
+}

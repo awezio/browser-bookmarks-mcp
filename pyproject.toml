@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "browser-bookmarks-mcp"
+version = "0.1.0"
+description = "A Model Context Protocol (MCP) server for browser bookmark management. Supports Chromium-based browsers across platforms."
+authors = [{name = "awezio"}]
+license = {text = "Apache-2.0"}
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.urls]
+"Homepage" = "https://github.com/awezio/browser-bookmarks-mcp"

@@ -1,0 +1,14 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Editor files
+.vscode/
+*.swp
+.DS_Store
+
+# Secrets
+.env
