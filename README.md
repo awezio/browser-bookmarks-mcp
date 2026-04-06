@@ -143,7 +143,11 @@ Contributions are welcome. Please open issues or pull requests against the repos
 
 Authors
 
-- awezio
+- [awezio](https://github.com/awezio)
+
+Built with Vibe Coding
+
+This project was built using **vibe coding** — a human-AI collaborative development workflow powered by [OpenClaw](https://github.com/openclaw/openclaw). The human provides the vision, direction, and design decisions; the AI handles implementation, refactoring, testing, and documentation. The result is a production-ready open-source project shipped in under 2 hours.
 
 License
 
