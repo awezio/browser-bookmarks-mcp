@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Bookmark Controller",
+  "version": "2.1",
+  "description": "Remote bookmark control via HTTP polling",
+  "permissions": ["bookmarks", "alarms"],
+  "host_permissions": ["http://127.0.0.1:19877/*", "http://10.5.48.190:19877/*"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
